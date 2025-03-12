@@ -1,0 +1,14 @@
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\bin\Debug\net9.0\ResolucaoTesteTargetSistemas.exe
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\bin\Debug\net9.0\ResolucaoTesteTargetSistemas.deps.json
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\bin\Debug\net9.0\ResolucaoTesteTargetSistemas.runtimeconfig.json
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\bin\Debug\net9.0\ResolucaoTesteTargetSistemas.dll
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\bin\Debug\net9.0\ResolucaoTesteTargetSistemas.pdb
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.AssemblyInfoInputs.cache
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.AssemblyInfo.cs
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.dll
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\refint\ResolucaoTesteTargetSistemas.dll
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.pdb
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ResolucaoTesteTargetSistemas.genruntimeconfig.cache
+C:\Users\luisb\OneDrive\Desktop\ResolucaoTesteTargetSistemas\obj\Debug\net9.0\ref\ResolucaoTesteTargetSistemas.dll
